@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "#c:is_mushroom",
-    "#forge:is_mushroom",
-    "minecraft:mushroom_fields"
-  ]
-}
