@@ -3,7 +3,11 @@
   "experience": 1.0,
   "ingredients": [
     {
+<<<<<<<< HEAD:src/generated/resources/data/farmersdelight/recipe/cooking/hot_cocoa.json
       "tag": "c:foods/milk"
+========
+      "tag": "c:milks"
+>>>>>>>> e8c8270a (Futureproof conventional tags, move src/main/generated to src/generated.):src/generated/resources/data/farmersdelight/recipes/cooking/hot_cocoa.json
     },
     {
       "item": "minecraft:sugar"
